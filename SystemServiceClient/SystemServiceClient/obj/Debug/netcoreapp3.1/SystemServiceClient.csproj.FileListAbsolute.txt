@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.exe
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.deps.json
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.runtimeconfig.json
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.runtimeconfig.dev.json
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.dll
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\bin\Debug\netcoreapp3.1\SystemServiceClient.pdb
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.dll
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.pdb
+D:\Microsoft Visual Studio\Repos\SystemServiceClient\SystemServiceClient\obj\Debug\netcoreapp3.1\SystemServiceClient.genruntimeconfig.cache
